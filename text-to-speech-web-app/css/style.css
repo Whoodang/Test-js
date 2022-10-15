@@ -1,0 +1,88 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(3, 3, 3);
+}
+
+div {
+    padding: 30px;
+    margin: 10px;
+    background-color: #fff;
+    margin: 50px;
+    display: flex;
+}
+
+#text {
+    padding: 9px;
+    font-size: 18px;
+    width: 80%;
+    border: solid 1px #aaa;
+
+}
+
+input [type="button"] {
+    width: 15%;
+    border-radius: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
